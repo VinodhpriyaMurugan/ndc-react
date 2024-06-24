@@ -1,0 +1,29 @@
+.App {
+  text-align: left;
+  font-style: italic;
+}
+.appBar
+{
+  text-align: center;
+  
+}
+.bookingDiv
+{
+  padding-left: 10px;
+  padding-right: 10px;
+ 
+}
+.searchDiv
+{
+  padding-top: 10px;
+  padding-left: 10px;
+ 
+}
+
+.box1{
+  width: 156px;
+}
+
+.box2{
+  width: 140px;
+}
